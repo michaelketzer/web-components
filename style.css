@@ -1,0 +1,7 @@
+:root {
+  --primary: #0097d0;
+  --primary-darken: #007eae;
+  --primary-transparent: rgba(0, 153, 208, 0.1);
+
+  --font-on-primary: #fff;
+}
